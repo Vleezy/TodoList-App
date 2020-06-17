@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1cb0c80a-630f-41a9-abfb-81e8289137b0/deploy-status)](https://app.netlify.com/sites/todolistsapp/deploys)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
